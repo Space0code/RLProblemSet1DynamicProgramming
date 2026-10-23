@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+Tex/main.out
+Tex/main.aux
+Tex/main.bcf
+Tex/main.fdb_latexmk
+Tex/main.fls
+Tex/main.synctex.gz
+Tex/main.run.xml
+
+Tex/RLProblemSet1.out
+Tex/RLProblemSet1.aux
+Tex/RLProblemSet1.bcf
+Tex/RLProblemSet1.fdb_latexmk
+Tex/RLProblemSet1.fls
+Tex/RLProblemSet1.synctex.gz
+Tex/RLProblemSet1.run.xml
